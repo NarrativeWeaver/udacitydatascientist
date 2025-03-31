@@ -1,4 +1,4 @@
-## Palliative Care Analaysis
+## Palliative Care Analysis by Frederick Yeo
 
 ## Project Overview
  This project analyzes 3 palliative care metrics across 11 cancer hospitals in the US. It identifies relationships between these metrics, distributon across the centers and regions, and proposes potential interventions for improvement.
