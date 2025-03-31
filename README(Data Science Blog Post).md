@@ -110,7 +110,7 @@ pip install -r requirements.txt
 The code and analysis in this repository are provided under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## References/Resources
-- Palliative Care Datast: https://data.cms.gov/provider-data/dataset/qoeg-w7ck
+- Palliative Care Dataset: https://data.cms.gov/provider-data/dataset/qoeg-w7ck
 - Seaborn tutorial: https://seaborn.pydata.org/tutorial.html
 - Matplotlib tutorial: https://matplotlib.org/
 - Scikit tutorial: https://scikit-learn.org/stable/getting_started.html
