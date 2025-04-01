@@ -24,7 +24,7 @@ The blog which contains an overview of the project can be found here: https://me
 
 The repository includes the following files:
 - `README(Data Science Blog Post).md`: Overview of data science project
-- `Pallative Care Data Analysis (1 April 25).py`: Jupyter Notebook containing the code and detailed analysis.
+- `Pallative Care Data Analysis (1 April 25).ipynb`: Jupyter Notebook containing the code and detailed analysis.
 - `PCH_Palliative_Care_HOSPITAL.csv`: 4 palliative care metrics across 11 cancer centers in the US
 - 'measure_distributions.png': Distribution of values for each metric
 - 'correlation_matrix': Correlation analysis between metrics
